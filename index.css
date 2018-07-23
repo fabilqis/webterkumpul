@@ -12,7 +12,7 @@
     margin-top: 15px;
 }
 
-.subtitle{
+.thesub{
     font-family: 'PT Serif', serif;
     font-size: 30px;
 }
@@ -36,13 +36,19 @@
 }
 
 .slidecol{
-    margin-top:140px;
+    margin-top: 90px;
     font-family:  'Roboto', sans-serif;
-    font-weight: bold;
+    font-size: 25px;
 }
 
-.catcampaign{
-    margin-top: 30px;
+.maincon{
+        background-image: url(./image/background.png); 
+        min-height: 1200px;
+}
+
+.maincampaign{
     margin-bottom: 30px;
 }
+
+
 
