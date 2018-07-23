@@ -1,54 +1,71 @@
-.hero{
+.hero {
     background-image: url(./image/pexels-photo-154133.png);
 }
 
-.cotitle{
+.cotitle {
     font-family: 'PT Serif', serif;
     font-size: 40px;
     text-shadow: 4px 1px 2px black;
 }
 
-.field{
+.field {
     margin-top: 15px;
 }
 
-.thesub{
+.thesub {
     font-family: 'PT Serif', serif;
     font-size: 30px;
 }
-.level-item{
+
+.thelevel {
     background-color: #76B4FE;
 }
-.p1{
+
+.p1 {
     font-family: 'Roboto', sans-serif;
     color: white;
     font-size: 18px;
 }
 
-.p2{
+.p2 {
     font-family: 'Roboto', sans-serif;
     color: black;
     font-size: 30px;
 }
 
-.slicolumn{
+.slicolumn {
     margin-top: 40px;
 }
 
-.slidecol{
+.slidecol {
     margin-top: 90px;
-    font-family:  'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 25px;
 }
 
-.maincon{
-        background-image: url(./image/background.png); 
-        min-height: 1200px;
-}
-
-.maincampaign{
-    margin-bottom: 30px;
+.maincon {
+    background-image: url(./image/background.png);
+    min-height: 1000px;
 }
 
 
+.buttoncon{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
 
+.maincampaign {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #ADC0DC;
+}
+
+li {
+    list-style-type: none;
+}
+
+.linksosmed {
+    float: right;
+}
