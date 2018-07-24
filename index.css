@@ -1,3 +1,6 @@
+
+
+
 .hero {
     background-image: url(./image/pexels-photo-154133.png);
 }
@@ -43,14 +46,14 @@
     font-size: 25px;
 }
 
-.maincon {
-    background-image: url(./image/background.png);
-    min-height: 1000px;
+.maincon{
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .buttoncon {
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 130px;
+    margin-bottom: 130px;
 }
 
 .maincampaign {
@@ -68,3 +71,4 @@ li {
 .linksosmed {
     float: right;
 }
+
